@@ -4,8 +4,8 @@ include(vcpkg_common_functions)
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO mattnewport/mathlib
-    REF v0.1.2
-    SHA512 96ee47138d86b96427bf9b0c9c7aa0c2f885b6184ea97ff9d11f1e9905a4ba3a1f9cc820ec2cc79663922c4d2468cad75e0c58e30d91eb456912d748d76d3b93
+    REF v0.1.3
+    SHA512 26ecf6ce3f5974cced0733e5250b5e79d19617a71df1a541665013dda16e845d342a4c835c333de7e75f8f2f585b2b421d231d66dc4db6f0935751eb79677b5e
     HEAD_REF VS2017-Update-5-Updates
 )
 
